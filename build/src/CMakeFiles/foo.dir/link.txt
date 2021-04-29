@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -pedantic -g -Wno-deprecated-declarations -Wno-parentheses -fno-stack-protector -fno-sanitize=all -z execstack -static -no-pie CMakeFiles/foo.dir/foo.c.o -o foo 
